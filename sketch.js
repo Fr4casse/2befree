@@ -1,6 +1,6 @@
 function setup() {
   createCanvas(400, 400);
-  Teub(100);
+  Teubi(100);
 }
 
 function draw() {
